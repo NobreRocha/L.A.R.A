@@ -1,0 +1,22 @@
+.info {
+    width: 60%;
+    margin-right: 90px;
+    margin-top: 90px;
+    color: goldenrod;
+}
+
+.hh1 {
+    font-size: 100px;
+    font-style: Bold; 
+}
+
+h3, p {
+    margin-left: 60px;
+    
+}
+
+iframe {
+    margin-left: 920px;
+    margin-top: -250px;
+}
+
