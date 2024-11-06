@@ -4,7 +4,6 @@ function Carosel() {
 
   return (
     <>
-    
         <div id="carouselExampleFade" class="carousel slide carousel-fade">
         <div class="carousel-inner">
             <div class="carousel-item active">
